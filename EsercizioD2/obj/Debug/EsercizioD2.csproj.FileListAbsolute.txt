@@ -1,0 +1,7 @@
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\bin\Debug\EsercizioD2.exe.config
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\bin\Debug\EsercizioD2.exe
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\bin\Debug\EsercizioD2.pdb
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\obj\Debug\EsercizioD2.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\obj\Debug\EsercizioD2.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\obj\Debug\EsercizioD2.exe
+C:\Users\Utente\Desktop\EPICODE\Unit 4\Settimana 13\Giorno 1\Pratica\EsercizioD2\EsercizioD2\obj\Debug\EsercizioD2.pdb
